@@ -1,4 +1,4 @@
-# Pengolahan-Citra
+# Pengolahan Citra
 ## GUI MATLAB
 Maulana Hasan
 311910641
